@@ -30,11 +30,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-## Publications
+### Publications
 
 [1]. Pretzsch E, Heinemann V, Stintzing S, Bender A, **Chen S**, Holch JW, Hofmann FO, Ren H, Bösch F, Küchenhoff H, Werner J, Angele MK. EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III: Analysis of the Randomised, Phase III Trial FIRE-3 (AIO KRK 0306; FIRE-3). Cancers. 2022; 14(22):5596. https://doi.org/10.3390/cancers14225596
 
-## Education Experiences 
+### Education Experiences 
 - 2020 - 2022 MSc. Data Science, LMU Munich, Munich Germany
   - 1.0 / 1.0 with distinction 
 - 2016 - 2020 Information System & Computer Science, Sun Yat-Sen University, Guangzhou China 
@@ -42,10 +42,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 - 2013 - 2016 Henan Experimental Highschool, Henan China
 
 
-## Awards
+### Awards
 
 
-## Scholarships
+### Scholarships
 - 2022 LMU SIST Scholarship 
 
 - 2020 China National Scholarship
