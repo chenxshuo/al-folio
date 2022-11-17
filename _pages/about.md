@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: 
 
@@ -62,7 +62,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ### Education Experiences 
 + 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany
   + Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start)
-  + 1.0/1.0 
+  + 1.13/1.0 
 <br/><br/>
 
 + 2016 - 2020 Information System, Sun Yat-Sen University, Guangzhou China 
