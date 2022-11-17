@@ -19,13 +19,11 @@ social: true  # includes social icons at the bottom of the page
 - **Email**: [shuo.chen@campus.lmu.de](shuo.chen@campus.lmu.de)
 - *Name Pronunciation: "Shuo" is similar to "shore" with a British accent.*
 
+I am about to graduate from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/) and will embark on a Ph.D. journey in the near future!
 
+Before joining LMU, I graduated from [the School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (SYSU), Guangzhou, China, in 2020 with a major in Information Systems and a minor in Computer Science, advised by [Prof. Daifeng Li](https://baike.baidu.com/item/%E6%9D%8E%E5%B2%B1%E5%B3%B0/24131767).
 
-I am about to graduate from [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) in [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/) and will embark on a PhD journey in the near future!
-
-Before joining in LMU, I graduated from [the School of Information Management](https://ischool.sysu.edu.cn/) in [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (SYSU), Guangzhou China in 2020, with a major in Information Systems and a minor in Computer Science, advised by [Prof. Daifeng Li](https://baike.baidu.com/item/%E6%9D%8E%E5%B2%B1%E5%B3%B0/24131767).
-
-My research interests include Data Science, Natural Language Processing, Knowledge Graphs and Model Robustness.
+My research interests include Data Science, Natural Language Processing, Knowledge Graphs, and Model Robustness.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -42,21 +40,21 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 - **May 2022** I obtained the [LMU SIST Scholarship](https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html) and would be sponsored by the Bavaria Education Ministry in the next 10 months. 
 
-- **Dec 2021** I joined in the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant.
+- **Dec 2021** I joined the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant.
 
 - **July 2020** I joined [DMAI](https://dm.ai/) as a Research Intern.
 
-- **June 2020** I graduated from SYSU and would study in the Data Science Master Program in LMU Munich, Germany.
+- **June 2020** I graduated from SYSU and would study in the Data Science Master Program at LMU Munich, Germany.
 
 - **June 2019** I obtained the Chinese National Scholarship which is the scholarship with the highest honor that Chinese college students can obtain. 
 
-- **May 2019** I obtained the First Class Scholarship for Excellent Students in Sun Yat-sen University.
+- **May 2019** I obtained the First Class Scholarship for Excellent Students at Sun Yat-sen University.
 
 - **Apr 2019** My team won the First Prize in a [national competition](https://data-competition.pku.edu.cn/) and ranked 2nd among hundreds of teams.
 
 - **Jun 2018** I obtained the National Encouragement Scholarship for excellent students with financial needs.
 
-- **Aug 2017** I took a study tour in top-notch universities in Taiwan with visiting grant from SYSU.
+- **Aug 2017** I took a study tour of top-notch universities in Taiwan with visiting grant from SYSU.
 
 <br/><br/>
 
