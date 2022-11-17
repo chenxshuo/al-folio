@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: mein-passfoto.jpg
+  image: foto.png
   image_circular: true # crops the image to make it circular
   address:
 
@@ -14,15 +14,16 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+- **Enthusiastic Data Science and AI Researcher**
 - **Graduate Student at LMU Munich**
 - **Email**: [shuo.chen@campus.lmu.de](shuo.chen@campus.lmu.de)
-- *Name Pronunciation: "Shuo" is similar to "shore".*
+- *Name Pronunciation: "Shuo" is similar to "shore" with a British accent.*
 
 
 
-I am about to graduate from [Elite Master of Data Science](https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/data-science-master-hauptfach-4483.html) in [LMU Munich](https://www.lmu.de/en/) and will embark on a PhD journey in the near future. 
+I am about to graduate from [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) in [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/) and will embark on a PhD journey in the near future!
 
-Before joining in LMU, I graduated from the School of Information Management in Sun Yat-Sen University, Guangzhou China in 2020, with a major in Information Systems and a minor in Computer Science.
+Before joining in LMU, I graduated from [the School of Information Management](https://ischool.sysu.edu.cn/) in [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (SYSU), Guangzhou China in 2020, with a major in Information Systems and a minor in Computer Science, advised by [Prof. Daifeng Li](https://baike.baidu.com/item/%E6%9D%8E%E5%B2%B1%E5%B3%B0/24131767).
 
 My research interests include Data Science, Natural Language Processing, Knowledge Graphs and Model Robustness.
 
@@ -33,36 +34,83 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+<br/><br/>
+
+### News 
+
+- **Nov 2022** One [paper](https://www.mdpi.com/2072-6694/14/22/5596) has been accepted to Cancers.
+
+- **May 2022** I obtained the [LMU SIST Scholarship](https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html) and would be sponsored by the Bavaria Education Ministry in the next 10 months. 
+
+- **Dec 2021** I joined in the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant.
+
+- **July 2020** I joined [DMAI](https://dm.ai/) as a Research Intern.
+
+- **June 2020** I graduated from SYSU and would study in the Data Science Master Program in LMU Munich, Germany.
+
+- **June 2019** I obtained the Chinese National Scholarship which is the scholarship with the highest honor that Chinese college students can obtain. 
+
+- **May 2019** I obtained the First Class Scholarship for Excellent Students in Sun Yat-sen University.
+
+- **Apr 2019** My team won the First Prize in a [national competition](https://data-competition.pku.edu.cn/) and ranked 2nd among hundreds of teams.
+
+- **Jun 2018** I obtained the National Encouragement Scholarship for excellent students with financial needs.
+
+- **Aug 2017** I took a study tour in top-notch universities in Taiwan with visiting grant from SYSU.
+
+<br/><br/>
+
+
+### Education Experiences 
++ 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany
+  + Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start)
+  + 1.0/1.0 
+<br/><br/>
+
++ 2016 - 2020 Information System, Sun Yat-Sen University, Guangzhou China 
+  + Minor in Computer Science 
+  + 3.8/4.0 top10%
+<br/><br/>
+- 2013 - 2016 Henan Experimental Highschool, Henan China
+
+<br/><br/>
+
 
 ### Publications
 
 [1]. Pretzsch E, Heinemann V, Stintzing S, Bender A, **Chen S**, Holch JW, Hofmann FO, Ren H, Bösch F, Küchenhoff H, Werner J, Angele MK. EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III. Cancers. 2022; 14(22):5596. [https://doi.org/10.3390/cancers14225596](https://doi.org/10.3390/cancers14225596)
 
-### Education Experiences 
-- 2020 - 2022 MSc. Data Science, LMU Munich, Munich Germany
-  - 1.0/1.0 with distinction 
 
-
-
-- 2016 - 2020 Information System & Computer Science, Sun Yat-Sen University, Guangzhou China 
-  - 3.8/4.0 top10%
-
-
-
-- 2013 - 2016 Henan Experimental Highschool, Henan China
+<br/><br/>
 
 ### Working Experiences 
 
+- Research Assistant at SLDS Consulting Unit
+  - Dec 2021 - Jan 2023
+<br/><br/>
+- Research Intern at DMAI, Guangzhou China 
+  - Jun 2020 - Oct 2020
 
+
+<br/><br/>
 
 ### Awards
+- 2019 First prize in National Competition of Data Driven and Innovation Research [link](https://opendata.pku.edu.cn/competition-2019.xhtml)
 
+<br/><br/>
 
 ### Scholarships
-- 2022 LMU SIST Scholarship 
+- May 2022 [LMU SIST Scholarship](https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html). 
+  *The requirements for the scholarship include academic excellence, demonstrable knowledge in the applicant’s field of study, and financial need.*
 
-- 2020 China National Scholarship
+- June 2019 [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html). *This scholarship is with the highest honor that Chinese college students can obtain.*
 
+- May 2019 First Class Scholarship for Excellent Students in Sun Yat-sen University
 
+- Jun 2018 National Encouragement Scholarship
 
+- Aug 2017 Study Tour Grant from SYSU
 
+<br/><br/>
+
+---
