@@ -46,13 +46,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 - **June 2020** I graduated from SYSU and would study in the [Data Science Master Program](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at LMU Munich, Germany.
 
-- **June 2019** I obtained the [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html) which is the scholarship with the highest honor that Chinese college students can obtain. 
-
 - **May 2019** I obtained the First Class Scholarship for Excellent Students at Sun Yat-sen University.
 
-- **Apr 2019** My team won the First Prize in a [national competition](https://data-competition.pku.edu.cn/) and ranked 2nd among hundreds of teams.
+- **May 2019** My team won the First Prize in a [national competition](https://data-competition.pku.edu.cn/) and ranked 2nd among hundreds of teams.
 
-- **Jun 2018** I obtained the National Encouragement Scholarship for excellent students with financial needs.
+- **Nov 2018** I obtained the [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html) which is the scholarship with the highest honor that Chinese college students can obtain. 
+
+- **Nov 2017** I obtained the National Encouragement Scholarship for excellent students with financial needs.
 
 - **Aug 2017** I took a study tour of top-notch universities in Taiwan with visiting grant from SYSU.
 
@@ -107,11 +107,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 - May 2022 [LMU SIST Scholarship](https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html). 
   *The requirements for the scholarship include academic excellence, demonstrable knowledge in the applicant’s field of study, and financial need.*
 
-- June 2019 [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html). *This scholarship is with the highest honor that Chinese college students can obtain.*
-
 - May 2019 First Class Scholarship for Excellent Students in Sun Yat-sen University
 
-- Jun 2018 National Encouragement Scholarship
+- Nov 2018 [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html). *This scholarship is with the highest honor that Chinese college students can obtain.*
+
+- Nov 2017 National Encouragement Scholarship
 
 - Aug 2017 Study Tour Grant from SYSU
 
