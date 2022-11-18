@@ -78,7 +78,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 [1]. Pretzsch E, Heinemann V, Stintzing S, Bender A, **Chen S**, Holch JW, Hofmann FO, Ren H, Bösch F, Küchenhoff H, Werner J, Angele MK. EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III. Cancers. 2022; 14(22):5596. [https://doi.org/10.3390/cancers14225596](https://doi.org/10.3390/cancers14225596)
 
-[2]. **Chen s**, Norman, U. Social Networks are Divulging Your Identity behind Crypto Addresses. Arxiv Preprint. [https://arxiv.org/abs/2211.09656](https://arxiv.org/abs/2211.09656)
+[2]. **Chen S**, Norman, U. Social Networks are Divulging Your Identity behind Crypto Addresses. Arxiv Preprint. [https://arxiv.org/abs/2211.09656](https://arxiv.org/abs/2211.09656)
 
 <br/><br/>
 
