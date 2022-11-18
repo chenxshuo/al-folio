@@ -60,14 +60,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 ### Education Experiences 
-+ 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany
-  + Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start)
-  + 1.13/1.0 
++ 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany <br>
+  Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start) <br>
+  1.13/1.0 
 <br/><br/>
 
-+ 2016 - 2020 Information System, Sun Yat-Sen University, Guangzhou China 
-  + Minor in Computer Science 
-  + 3.8/4.0 top10%
++ 2016 - 2020 Information System, Sun Yat-Sen University, Guangzhou China <br>
+  Minor in Computer Science <br>
+  3.8/4.0 top10%
 <br/><br/>
 - 2013 - 2016 Henan Experimental Highschool, Henan China
 
@@ -75,20 +75,23 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 ### Publications
+-  **EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III.** [[Link]](https://www.mdpi.com/2072-6694/14/22/5596) [[PDF]](https://www.mdpi.com/2072-6694/14/22/5596/pdf?version=1668444867) <br>
+  Pretzsch, Elise, Volker Heinemann, Sebastian Stintzing, Andreas Bender, **Shuo Chen**, Julian Walter Holch, Felix Oliver Hofmann, Haoyu Ren, Florian Bösch, Helmut Küchenhoff, Jens Werner, and Martin Konrad Angele. <br>
+  *Cancers, 2022*
 
-[1]. Pretzsch E, Heinemann V, Stintzing S, Bender A, **Chen S**, Holch JW, Hofmann FO, Ren H, Bösch F, Küchenhoff H, Werner J, Angele MK. EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III. Cancers. 2022; 14(22):5596. [https://doi.org/10.3390/cancers14225596](https://doi.org/10.3390/cancers14225596)
-
-[2]. **Chen S**, Norman, U. Social Networks are Divulging Your Identity behind Crypto Addresses. Arxiv Preprint. [https://arxiv.org/abs/2211.09656](https://arxiv.org/abs/2211.09656)
+- **Social Networks are Divulging Your Identity behind Crypto Addresses**. [[Arxiv]](https://arxiv.org/abs/2211.09656) [[PDF]](https://arxiv.org/pdf/2211.09656) <br>
+  **Shuo Chen**, Uzair Norman <br>
+  *Arxiv Preprint, 2021*
 
 <br/><br/>
 
 ### Working Experiences 
 
-- Research Assistant at SLDS Consulting Unit
-  - Dec 2021 - Jan 2023
+- Research Assistant at SLDS Consulting Unit <br>
+  Dec 2021 - Jan 2023
 <br/><br/>
-- Research Intern at DMAI, Guangzhou China 
-  - Jun 2020 - Oct 2020
+- Research Intern at DMAI, Guangzhou China <br>
+  Jun 2020 - Oct 2020
 
 
 <br/><br/>
