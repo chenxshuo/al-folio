@@ -79,9 +79,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   Pretzsch, Elise, Volker Heinemann, Sebastian Stintzing, Andreas Bender, **Shuo Chen**, Julian Walter Holch, Felix Oliver Hofmann, Haoyu Ren, Florian Bösch, Helmut Küchenhoff, Jens Werner, and Martin Konrad Angele. <br>
   *Cancers, 2022*
 
-- **Social Networks are Divulging Your Identity behind Crypto Addresses**. [[Arxiv]](https://arxiv.org/abs/2211.09656) [[PDF]](https://arxiv.org/pdf/2211.09656) <br>
+- **Social Networks are Divulging Your Identity behind Crypto Addresses**. [[arXiv]](https://arxiv.org/abs/2211.09656) [[PDF]](https://arxiv.org/pdf/2211.09656) <br>
   **Shuo Chen**, Uzair Norman <br>
-  *Arxiv Preprint, 2021*
+  *arXiv preprint axXiv:2211.09656, 2021*
 
 <br/><br/>
 
@@ -93,6 +93,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 - Research Intern at DMAI, Guangzhou China <br>
   Jun 2020 - Oct 2020
 
+- Research Intern at DMAI, Guangzhou China <br>
+  Jun 2019 - Oct 2019
 
 <br/><br/>
 
