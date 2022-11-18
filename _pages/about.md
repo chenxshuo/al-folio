@@ -44,9 +44,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 - **July 2020** I joined [DMAI](https://dm.ai/) as a Research Intern.
 
-- **June 2020** I graduated from SYSU and would study in the Data Science Master Program at LMU Munich, Germany.
+- **June 2020** I graduated from SYSU and would study in the [Data Science Master Program](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at LMU Munich, Germany.
 
-- **June 2019** I obtained the Chinese National Scholarship which is the scholarship with the highest honor that Chinese college students can obtain. 
+- **June 2019** I obtained the [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html) which is the scholarship with the highest honor that Chinese college students can obtain. 
 
 - **May 2019** I obtained the First Class Scholarship for Excellent Students at Sun Yat-sen University.
 
@@ -62,7 +62,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ### Education Experiences 
 + 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany <br>
   Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start) <br>
-  1.13/1.0 
+  1.13/1.0 (approximately 3.9/4.0)
 <br/><br/>
 
 + 2016 - 2020 Information System, Sun Yat-Sen University, Guangzhou China <br>
