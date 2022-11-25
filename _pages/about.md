@@ -77,6 +77,9 @@ https://markdowntohtml.com/
 <ul>
 <li><strong>June 2020</strong> I graduated from SYSU and would study in the <a href="https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html">Data Science Master Program</a> at LMU Munich, Germany.</li>
 </ul>
+<ul style="margin-left: 0em">
+<li><strong>July 2019</strong> I joined <a href="https://dm.ai/">DMAI</a> as a Research Intern.</li>
+</ul>
 <ul>
 <li><strong>May 2019</strong> I obtained the First Class Scholarship for Excellent Students at Sun Yat-sen University.</li>
 </ul>
@@ -92,8 +95,9 @@ https://markdowntohtml.com/
 </li>
 </ul>
 </details>
-<br/>
+
 </div>
+<br/>
 
 ### Education Experiences 
 + 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany <br>
