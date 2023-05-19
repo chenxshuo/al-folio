@@ -15,11 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 - **Enthusiastic Data Science and AI Researcher**
-- **Graduate Student at LMU Munich**
-- **Email**: [shuo.chen@campus.lmu.de](shuo.chen@campus.lmu.de)
+- **PhD Student at LMU Munich & Siemens**
+- **Email**: shuo.chen at campus.lmu.de
 - *Name Pronunciation: "Shuo" is similar to "shore" with a British accent.*
 
-I am about to graduate from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/) and will embark on a Ph.D. journey in the near future!
+I am a 1st year PhD student at Siemens AG and LMU Munich, supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). Before that, I graduated from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/).
 
 Before joining LMU, I graduated from [the School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (SYSU), Guangzhou, China, in 2020 with a major in Information Systems and a minor in Computer Science, advised by [Prof. Daifeng Li](https://ischool.sysu.edu.cn/cn/content/%E6%9D%8E%E5%B2%B1%E5%B3%B0).
 
@@ -35,6 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br/><br/>
 
 ### News 
+- **Feb 2023** I graduated from the Data Science Master project at LMU with a grade of 1.08/1.0 and started a new journey as a PhD Student!
 
 - **Nov 2022** One [paper](https://www.mdpi.com/2072-6694/14/22/5596) has been accepted to Cancers.
 
@@ -100,9 +101,11 @@ https://markdowntohtml.com/
 <br/>
 
 ### Education Experiences 
++ 2023 - Now PhD Student, LMU Munich & Siemens AG, Munich Germany <br>
+
 + 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany <br>
   Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start) <br>
-  1.13/1.0 (approximately 3.9/4.0)
+  1.08/1.0 (approximately 4.0/4.0)
 <br/><br/>
 
 + 2016 - 2020 Information System, Sun Yat-sen University, Guangzhou China <br>
