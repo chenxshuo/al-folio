@@ -36,7 +36,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ### News 
 
-- **Jul 2023** Check out our new systematic survey of prompt engineering on vision-language foundation models! [paper](https://arxiv.org/abs/2307.12980), [Awesome Github Repo](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) 
+- **Jul 2023** Check out our new systematic survey of prompt engineering on vision-language foundation models! [paper](https://arxiv.org/abs/2307.12980), [awesome github repo](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) 
 
 
 - **Jun 2023** Check out our new benchmark on robustness of adaptation methods on pre-trained vision-language models! [paper](https://arxiv.org/abs/2306.02080), [page](https://adarobustness.github.io/).
@@ -83,17 +83,18 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br/>
 
 ### Education Experiences 
-+ 2023 - Now PhD Student, LMU Munich & Siemens AG, Munich Germany <br>
++ 2023 - Now PhD Student, LMU Munich & Siemens AG, Munich Germany <br/>
 
 + 2020 - 2022 M.Sc. Data Science, LMU Munich, Munich Germany <br>
   Elite Master Project funded by [Bavaria Government](https://www.elitenetzwerk.bayern.de/start) <br>
   1.08/1.0 (approximately 4.0/4.0)
-<br/><br/>
+<br/>
 
 + 2016 - 2020 Information System, Sun Yat-sen University, Guangzhou China <br>
   Minor in Computer Science <br>
   3.8/4.0 top10%
-<br/><br/>
+<br/>
+
 - 2013 - 2016 Henan Experimental Highschool, Henan China
 
 <br/><br/>
