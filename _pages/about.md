@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: foto-2.jpeg
+  image: foto-2.png
   image_circular: true # crops the image to make it circular
   address:
 
@@ -14,16 +14,16 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-- **Enthusiastic Data Science and AI Researcher**
+- **Enthusiastic AI Researcher**
 - **PhD Student at LMU Munich & Siemens**
-- **Email**: shuo.chen at campus.lmu.de
+- **Email**: chenshuo.cs at outlook dot com
 - *Name Pronunciation: "Shuo" is similar to "shore" with a British accent.*
 
-I am a 1st year PhD student at Siemens AG and LMU Munich, supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). Before that, I graduated from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/).
+I am a 1st year PhD student at LMU Munich and Siemens AG, supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). Before that, I graduated from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/).
 
 Before joining LMU, I graduated from [the School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (SYSU), Guangzhou, China, in 2020 with a major in Information Systems and a minor in Computer Science, advised by [Prof. Daifeng Li](https://ischool.sysu.edu.cn/cn/content/%E6%9D%8E%E5%B2%B1%E5%B3%B0).
 
-My research interests include Data Science, Natural Language Processing, Knowledge Graphs, and Model Robustness.
+My research interests include Deep Learning, Multimodal Models, Vision-Language Models, and Responsible AI.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -35,6 +35,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br/><br/>
 
 ### News 
+
+- **Jul 2023** Check out our new systematic survey of prompt engineering on vision-language foundation models! [paper](https://arxiv.org/abs/2307.12980), [Awesome Github Repo](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) 
+
+
+- **Jun 2023** Check out our new benchmark on robustness of adaptation methods on pre-trained vision-language models! [paper](https://arxiv.org/abs/2306.02080), [page](https://adarobustness.github.io/).
+
 - **Feb 2023** I graduated from the Data Science Master project at LMU with a grade of 1.08/1.0 and started a new journey as a PhD Student!
 
 - **Nov 2022** One [paper](https://www.mdpi.com/2072-6694/14/22/5596) has been accepted to Cancers.
@@ -44,30 +50,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 - **Dec 2021** I joined the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant.
 
 
-<!-- 
-https://markdowntohtml.com/
-- **July 2020** I joined [DMAI](https://dm.ai/) as a Research Intern.
-
-
-- **June 2020** I graduated from SYSU and would study in the [Data Science Master Program](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at LMU Munich, Germany.
-
-
-
-- **May 2019** I obtained the First Class Scholarship for Excellent Students at Sun Yat-sen University.
-
-
-
-- **May 2019** My team won the First Prize in a [national competition](https://data-competition.pku.edu.cn/) and ranked 2nd among hundreds of teams.
-
-
-
-- **Nov 2018** I obtained the [Chinese National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html) which is the scholarship with the highest honor that Chinese college students can obtain. 
-
-- **Nov 2017** I obtained the National Encouragement Scholarship for excellent students with financial needs.
-
-- **Aug 2017** I took a study tour of top-notch universities in Taiwan with visiting grant from SYSU.
-
- -->
  <div style="margin-left: 1.6em;">
 <details>
 <summary><strong>Yesterday's News</strong></summary>
@@ -118,8 +100,20 @@ https://markdowntohtml.com/
 
 
 ### Publications
--  **EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III.** [[Link]](https://www.mdpi.com/2072-6694/14/22/5596) [[PDF]](https://www.mdpi.com/2072-6694/14/22/5596/pdf?version=1668444867) <br>
-  Pretzsch, Elise, Volker Heinemann, Sebastian Stintzing, Andreas Bender, **Shuo Chen**, Julian Walter Holch, Felix Oliver Hofmann, Haoyu Ren, Florian Bösch, Helmut Küchenhoff, Jens Werner, and Martin Konrad Angele. <br>
+- **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models** 
+  [[arXiv]](https://arxiv.org/abs/2307.12980) [[Awesome Githup Repo]](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) <br>
+  Jindong Gu, Zhen Han, **Shuo Chen**, Ahmad Beirami, Bailan He, Gengyuan Zhang, Ruotong Liao, Yao Qin, Volker Tresp, Philip Torr <br>
+  *arXiv preprint arXiv:2307.12980, 2023*
+
+
+- **Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models**
+  [[arXiv]](https://arxiv.org/abs/2306.02080) [[Page]](https://adarobustness.github.io/) [[Code]](https://github.com/adarobustness/adaptation_robustness) <br>
+  **Shuo Chen**, Jindong Gu, Zhen Han, Yunpu Ma, Philip Torr, Volker Tresp <br>
+  *arXiv preprint arXiv:2306.02080, 2023*
+
+
+-  **EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III** [[Link]](https://www.mdpi.com/2072-6694/14/22/5596) [[PDF]](https://www.mdpi.com/2072-6694/14/22/5596/pdf?version=1668444867) <br>
+  Pretzsch Elise, Volker Heinemann, Sebastian Stintzing, Andreas Bender, **Shuo Chen**, Julian Walter Holch, Felix Oliver Hofmann, Haoyu Ren, Florian Bösch, Helmut Küchenhoff, Jens Werner, Martin Konrad Angele <br>
   *Cancers, 2022*
 
 
@@ -137,6 +131,8 @@ https://markdowntohtml.com/
 <br/><br/>
 
 ### Working Experiences 
+- PhD Student at Siemens AG <br>
+  Feb 2023 - Now
 
 - Research Assistant at SLDS Consulting Unit <br>
   Dec 2021 - Jan 2023
