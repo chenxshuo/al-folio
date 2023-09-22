@@ -35,6 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br/><br/>
 
 ### News 
+- **Sep 2023** One paper got accepted at **NeurIPS 2023** Dataset and Benchmark Track! [paper](https://arxiv.org/abs/2306.02080), [page](https://adarobustness.github.io/)
 
 - **Jul 2023** Check out our new systematic survey of prompt engineering on vision-language foundation models! [paper](https://arxiv.org/abs/2307.12980), [awesome github repo](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) 
 
@@ -47,7 +48,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 - **May 2022** I obtained the [LMU SIST Scholarship](https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html) and would be sponsored by the Bavaria Education Ministry in the next 10 months. 
 
-- **Dec 2021** I joined the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant.
+<!-- - **Dec 2021** I joined the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant. -->
 
 
  <div style="margin-left: 1.6em;">
@@ -101,31 +102,37 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 ### Publications
+- **Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models**
+  [[arXiv]](https://arxiv.org/abs/2306.02080) [[Page]](https://adarobustness.github.io/) [[Code]](https://github.com/adarobustness/adaptation_robustness) <br>
+  **Shuo Chen**, Jindong Gu, Zhen Han, Yunpu Ma, Philip Torr, Volker Tresp <br>
+  *NeurIPS 2023 Dataset and Benchmark Track*
+
+
 - **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models** 
   [[arXiv]](https://arxiv.org/abs/2307.12980) [[Awesome Githup Repo]](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) <br>
   Jindong Gu, Zhen Han, **Shuo Chen**, Ahmad Beirami, Bailan He, Gengyuan Zhang, Ruotong Liao, Yao Qin, Volker Tresp, Philip Torr <br>
   *arXiv preprint arXiv:2307.12980, 2023*
 
-
-- **Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models**
-  [[arXiv]](https://arxiv.org/abs/2306.02080) [[Page]](https://adarobustness.github.io/) [[Code]](https://github.com/adarobustness/adaptation_robustness) <br>
-  **Shuo Chen**, Jindong Gu, Zhen Han, Yunpu Ma, Philip Torr, Volker Tresp <br>
-  *arXiv preprint arXiv:2306.02080, 2023*
-
-
--  **EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III** [[Link]](https://www.mdpi.com/2072-6694/14/22/5596) [[PDF]](https://www.mdpi.com/2072-6694/14/22/5596/pdf?version=1668444867) <br>
-  Pretzsch Elise, Volker Heinemann, Sebastian Stintzing, Andreas Bender, **Shuo Chen**, Julian Walter Holch, Felix Oliver Hofmann, Haoyu Ren, Florian Bösch, Helmut Küchenhoff, Jens Werner, Martin Konrad Angele <br>
-  *Cancers, 2022*
-
-
-- **Introduction and Exemplars of Uncertainty Decomposition.** [[arXiv]](http://arxiv.org/abs/2211.15475) [[PDF]](https://arxiv.org/pdf/2211.15475.pdf) <br>
-  **Shuo Chen** <br>
-  *arXiv preprint arXiv:2211.15475, 2022*
-
-
-- **Social Networks are Divulging Your Identity behind Crypto Addresses**. [[arXiv]](https://arxiv.org/abs/2211.09656) [[PDF]](https://arxiv.org/pdf/2211.09656) <br>
-  **Shuo Chen**, Uzair Norman <br>
-  *arXiv preprint arXiv:2211.09656, 2021*
+<div style="margin-left: 1.6em;">
+<details>
+<summary><strong>Before PhD</strong></summary>
+<ul>
+<li><strong>EMT-Related Genes Have No Prognostic Relevance in Metastatic Colorectal Cancer as Opposed to Stage II/III</strong> <a href="https://www.mdpi.com/2072-6694/14/22/5596">[Link]</a> <a href="https://www.mdpi.com/2072-6694/14/22/5596/pdf?version=1668444867">[PDF]</a> <br>
+Pretzsch Elise, Volker Heinemann, Sebastian Stintzing, Andreas Bender, <strong>Shuo Chen</strong>, Julian Walter Holch, Felix Oliver Hofmann, Haoyu Ren, Florian Bösch, Helmut Küchenhoff, Jens Werner, Martin Konrad Angele <br>
+<em>Cancers, 2022</em></li>
+</ul>
+<ul>
+<li><strong>Introduction and Exemplars of Uncertainty Decomposition.</strong> <a href="http://arxiv.org/abs/2211.15475">[arXiv]</a> <a href="https://arxiv.org/pdf/2211.15475.pdf">[PDF]</a> <br>
+<strong>Shuo Chen</strong> <br>
+<em>arXiv preprint arXiv:2211.15475, 2022</em></li>
+</ul>
+<ul>
+<li><strong>Social Networks are Divulging Your Identity behind Crypto Addresses</strong>. <a href="https://arxiv.org/abs/2211.09656">[arXiv]</a> <a href="https://arxiv.org/pdf/2211.09656">[PDF]</a> <br>
+<strong>Shuo Chen</strong>, Uzair Norman <br>
+<em>arXiv preprint arXiv:2211.09656, 2021</em></li>
+</ul>
+</details>
+</div>
 
 
 
