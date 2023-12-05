@@ -35,20 +35,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br/><br/>
 
 ### News 
+
+- **Nov 2023** Check out our new paper of in-context learning on vision-language models! [paper](https://arxiv.org/abs/2311.18021)
+
 - **Sep 2023** One paper got accepted at **NeurIPS 2023** Dataset and Benchmark Track! [paper](https://arxiv.org/abs/2306.02080), [page](https://adarobustness.github.io/)
 
 - **Jul 2023** Check out our new systematic survey of prompt engineering on vision-language foundation models! [paper](https://arxiv.org/abs/2307.12980), [awesome github repo](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/tree/main) 
-
-
-- **Jun 2023** Check out our new benchmark on robustness of adaptation methods on pre-trained vision-language models! [paper](https://arxiv.org/abs/2306.02080), [page](https://adarobustness.github.io/).
-
-- **Feb 2023** I graduated from the Data Science Master project at LMU with a grade of 1.08/1.0 and started a new journey as a PhD Student!
-
-- **Nov 2022** One [paper](https://www.mdpi.com/2072-6694/14/22/5596) has been accepted to Cancers.
-
-- **May 2022** I obtained the [LMU SIST Scholarship](https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html) and would be sponsored by the Bavaria Education Ministry in the next 10 months. 
-
-<!-- - **Dec 2021** I joined the [SLDS Consulting Unit](https://www.slds.stat.uni-muenchen.de/consulting/) as a Research Assistant. -->
 
 
  <div style="margin-left: 1.6em;">
@@ -56,6 +48,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <summary><strong>Yesterday's News</strong></summary>
 <br/>
 <ul style="margin-left: 0em">
+<li><p><strong>Jun 2023</strong> Check out our new benchmark on robustness of adaptation methods on pre-trained vision-language models! <a href="https://arxiv.org/abs/2306.02080">paper</a>, <a href="https://adarobustness.github.io/">page</a>.</p>
+</li>
+<li><p><strong>Feb 2023</strong> I graduated from the Data Science Master project at LMU with a grade of 1.08/1.0 (1.0 is the best) and started a new journey as a PhD Student!</p>
+</li>
+<li><p><strong>Nov 2022</strong> One <a href="https://www.mdpi.com/2072-6694/14/22/5596">paper</a> has been accepted to Cancers.</p>
+</li>
+<li><p><strong>May 2022</strong> I obtained the <a href="https://www.lmu.de/en/workspace-for-students/student-support-services/finance-your-studies/scholarships/scholarships-for-international-students/index.html">LMU SIST Scholarship</a> and would be sponsored by the Bavaria Education Ministry in the next 10 months. </p>
+</li>
 <li><strong>July 2020</strong> I joined <a href="https://dm.ai/">DMAI</a> as a Research Intern.</li>
 </ul>
 <ul>
@@ -102,6 +102,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 ### Publications
+
+- **Understanding and Improving In-Context Learning on Vision-language Models**
+  [[arXiv]](https://arxiv.org/abs/2311.18021) <br>
+  **Shuo Chen**, Zhen Han, Bailan He, Mark Buckley, Philip Torr, Volker Tresp, Jindong Gu <br>
+  *arXiv preprint*
+
+
 - **Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models**
   [[arXiv]](https://arxiv.org/abs/2306.02080) [[Page]](https://adarobustness.github.io/) [[Code]](https://github.com/adarobustness/adaptation_robustness) <br>
   **Shuo Chen**, Jindong Gu, Zhen Han, Yunpu Ma, Philip Torr, Volker Tresp <br>
