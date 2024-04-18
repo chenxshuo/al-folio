@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 - **Email**: chenshuo.cs at outlook dot com
 - *Name Pronunciation: "Shuo" is similar to "shore" with a British accent.*
 
-I am a 1st year PhD student at LMU Munich and Siemens AG, supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). Before that, I graduated from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/).
+I am a 2nd year PhD student at LMU Munich and Siemens AG, supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). Before that, I graduated from the [Elite Master of Data Science](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html) at [LMU Munich](https://www.lmu.de/en/) advised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/).
 
 Before joining LMU, I graduated from [the School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) (SYSU), Guangzhou, China, in 2020 with a major in Information Systems and a minor in Computer Science, advised by [Prof. Daifeng Li](https://ischool.sysu.edu.cn/cn/content/%E6%9D%8E%E5%B2%B1%E5%B3%B0).
 
@@ -36,7 +36,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ### News 
 
-- **Nov 2023** Check out our new paper of in-context learning on vision-language models! [paper](https://arxiv.org/abs/2311.18021)
+- **Apr 2024** Check out our new paper on red-teaming GPT-4V against jailbreak attacks! [paper](https://arxiv.org/abs/2404.03411)
+
+- **Apr 2024** Check out our new paper on adversarial attacks on MLLMs with CoT! [paper](https://arxiv.org/abs/2402.14899)
+
+- **Nov 2023** Check out our new paper on in-context learning on vision-language models! [paper](https://arxiv.org/abs/2311.18021)
 
 - **Sep 2023** One paper got accepted at **NeurIPS 2023** Dataset and Benchmark Track! [paper](https://arxiv.org/abs/2306.02080), [page](https://adarobustness.github.io/)
 
