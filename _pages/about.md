@@ -107,6 +107,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ### Publications
 
+- **Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**
+  [[arXiv]](https://arxiv.org/abs/2404.03411) <br>
+  **Shuo Chen**, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu <br>
+  *arXiv preprint*
+
+
 - **Understanding and Improving In-Context Learning on Vision-language Models**
   [[arXiv]](https://arxiv.org/abs/2311.18021) <br>
   **Shuo Chen**, Zhen Han, Bailan He, Mark Buckley, Philip Torr, Volker Tresp, Jindong Gu <br>
@@ -117,6 +123,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   [[arXiv]](https://arxiv.org/abs/2306.02080) [[Page]](https://adarobustness.github.io/) [[Code]](https://github.com/adarobustness/adaptation_robustness) <br>
   **Shuo Chen**, Jindong Gu, Zhen Han, Yunpu Ma, Philip Torr, Volker Tresp <br>
   *NeurIPS 2023 Dataset and Benchmark Track*
+
+
+- **Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images**
+  [[arXiv]](https://arxiv.org/abs/2402.14899) <br>
+  Zefeng Wang, Zhen Han, **Shuo Chen**, Fan Xue, Zifeng Ding, Xun Xiao, Volker Tresp, Philip Torr, Jindong Gu <br>
+  *arXiv preprint*
+
 
 
 - **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models** 
